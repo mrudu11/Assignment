@@ -1,0 +1,45 @@
+.layout{
+    height: auto;
+    width: 500px;
+    padding: 30px;
+    margin-left: 30%;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    margin-top: 30px;
+}
+
+.layout h1{
+    text-align: center;
+    font-size: 50px;
+}
+.layout label{
+    font-size: 25px;
+    margin: 10px;
+    
+}
+.layout input{
+    height: 30px;
+    width: 420px;
+    margin:10px;
+    border: 1px solid black;
+}
+.layout input:hover{
+    border:5px solid rgb(53, 182, 247);
+   border-radius: 3px;
+}
+.layout button{
+    width: 430px;
+    height: 50px;
+    background-color: #0757ba;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    margin:10px;
+    border: rgb(2, 2, 34);
+    border: 1px solid black;
+   
+}
+.layout button:hover{
+
+   border:5px solid rgb(53, 182, 247);
+   border-radius: 5px;
+}
